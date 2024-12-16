@@ -1,10 +1,11 @@
 # snipr
 
-snipr (snipper) is a simple screenshoting tool for linux (only works on x11, and requires libx11 installed on the system to work)
+snipr (snipper) is a simple screenshoting tool for linux (only works on x11, and requires libx11 installed on the system to work).
 After running, click wherever you want the top left corner of your screenshot to be, and then click wherever you want the bottom right corner to be, and the result will be copied to your clipboard.
 
 # TODO List
 - [ ] add config functionality
+- [ ] possibly add some sort of visual to show which area is being copied
 
 # Installation
 **You need go installed on your system for snipr to work** 
