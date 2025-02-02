@@ -1,4 +1,4 @@
 #! /bin/bash
 
 go build snipr.go
-mv mpris-rpc ~/.local/bin
+mv snipr ~/.local/bin
